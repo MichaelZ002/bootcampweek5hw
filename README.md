@@ -1,1 +1,2 @@
 # bootcampweek5hw
+the code is basscily making a progrma that you are able to type in to make a planner ofr the day. The planner is saved to the local storage and will tell you if the time is past the time of day, the current time, and coming up.
